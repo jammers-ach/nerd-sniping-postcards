@@ -13,8 +13,8 @@
    height="382.67715"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="iamabastard.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="1.svg"
    inkscape:export-filename="/home/jammers/Documents/personal/cards/iamabastard.png"
    inkscape:export-xdpi="153.19"
    inkscape:export-ydpi="153.19">
@@ -31,12 +31,12 @@
      inkscape:cx="348.86163"
      inkscape:cy="165.46483"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g4113"
      showgrid="false"
      units="cm"
-     inkscape:window-width="958"
-     inkscape:window-height="1061"
-     inkscape:window-x="960"
+     inkscape:window-width="681"
+     inkscape:window-height="749"
+     inkscape:window-x="0"
      inkscape:window-y="17"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1643,7 +1643,7 @@
              height="144.28572"
              width="188.57143"
              id="rect4088" /></flowRegion><flowPara
-           id="flowPara4090">On this infinite grid of ideal one-ohm resistors, </flowPara></flowRoot>      <rect
+           id="flowPara4090">On this infinite grid of ideal two-ohm resistors, </flowPara></flowRoot>      <rect
          transform="translate(0,3826.7719)"
          y="2.6771545"
          x="0"
