@@ -1,4 +1,4 @@
-nerd-sniping-cards
+nerd-sniping-postcards
 ==================
 
 Nerd sniping was popularised in [xkcd #356](http://xkcd.com/356/). 
