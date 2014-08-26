@@ -13,6 +13,7 @@ I also realised I have friends who aren't eletrical engineers, but are computer 
 
 Thus nerd-sniping-cards was born
 
+![First card](1.png)
 
 ## How do I use them?
 
