@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="1.svg"
-   inkscape:export-filename="/home/jammers/Documents/personal/cards/iamabastard.png"
-   inkscape:export-xdpi="153.19"
-   inkscape:export-ydpi="153.19">
+   inkscape:export-filename="/home/jammers/Documents/nerd-sniping-postcards/1.png"
+   inkscape:export-xdpi="300.09631"
+   inkscape:export-ydpi="300.09631">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="348.86163"
-     inkscape:cy="165.46483"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="347.39948"
+     inkscape:cy="125.09424"
      inkscape:document-units="px"
      inkscape:current-layer="g4113"
      showgrid="false"
      units="cm"
      inkscape:window-width="681"
-     inkscape:window-height="749"
-     inkscape:window-x="0"
+     inkscape:window-height="373"
+     inkscape:window-x="683"
      inkscape:window-y="17"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1625,13 +1625,14 @@
          id="flowRoot4076"
          xml:space="preserve"><flowRegion
            id="flowRegion4078"><rect
-             style="font-size:24px"
+             style="font-size:24px;text-anchor:middle;text-align:center"
              y="188.39143"
              x="6.4285712"
-             height="185.71428"
-             width="219.28572"
+             height="196.82596"
+             width="200.09282"
              id="rect4080" /></flowRegion><flowPara
-           id="flowPara4082">What is the equivalent resistance between the two marked nodes?</flowPara></flowRoot>      <flowRoot
+           id="flowPara4082"
+           style="-inkscape-font-specification:CMU Serif Medium;font-family:CMU Serif;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center">What is the equivalent resistance between the two marked nodes?</flowPara></flowRoot>      <flowRoot
          transform="translate(10,3848.2005)"
          style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
          id="flowRoot4084"
@@ -1643,7 +1644,8 @@
              height="144.28572"
              width="188.57143"
              id="rect4088" /></flowRegion><flowPara
-           id="flowPara4090">On this infinite grid of ideal two-ohm resistors, </flowPara></flowRoot>      <rect
+           id="flowPara4090"
+           style="-inkscape-font-specification:CMU Serif Medium;font-family:CMU Serif;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal">On this infinite grid of ideal two-ohm resistors, </flowPara></flowRoot>      <rect
          transform="translate(0,3826.7719)"
          y="2.6771545"
          x="0"

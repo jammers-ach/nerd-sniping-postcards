@@ -13,11 +13,11 @@
    height="450"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="2.svg"
-   inkscape:export-filename="/home/jammers/Documents/personal/cards/iamabastard.png"
-   inkscape:export-xdpi="153.19"
-   inkscape:export-ydpi="153.19">
+   inkscape:export-filename="/home/jammers/Documents/nerd-sniping-postcards/2.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="464.29501"
-     inkscape:cy="276.20233"
+     inkscape:zoom="0.7"
+     inkscape:cx="345.62616"
+     inkscape:cy="182.41701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
-     inkscape:window-width="1920"
-     inkscape:window-height="1063"
+     inkscape:window-width="1366"
+     inkscape:window-height="751"
      inkscape:window-x="0"
      inkscape:window-y="17"
      inkscape:window-maximized="0"
@@ -88,19 +88,19 @@
        xml:space="preserve"
        id="flowRoot3844"
        style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(0,3759.449)"><flowRegion
+       transform="translate(32.825478,3777.6317)"><flowRegion
          id="flowRegion3846"><rect
            id="rect3848"
-           width="612.85718"
-           height="189.28574"
+           width="554.26831"
+           height="186.25528"
            x="3.5714285"
            y="13.571429" /></flowRegion><flowPara
          id="flowPara3850"
-         style="font-size:16px">Using a combination of black square tiles and oblong tiles chosen from: red tiles measuring two units, green tiles measuring three units, and blue tiles measuring four units, it is possible to tile a row measuring five units in length in exactly fifteen different ways.</flowPara></flowRoot>    <flowRoot
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:justify;text-anchor:start;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Using a combination of black square tiles and oblong tiles chosen from: red tiles measuring two units, green tiles measuring three units, and blue tiles measuring four units, it is possible to tile a row measuring five units in length in exactly fifteen different ways.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3852"
        style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(3.5714286,3759.449)"><flowRegion
+       transform="translate(1.950083,3759.449)"><flowRegion
          id="flowRegion3854"><rect
            id="rect3856"
            width="623.57184"
@@ -108,9 +108,9 @@
            x="5.2234378e-07"
            y="347.85715" /></flowRegion><flowPara
          id="flowPara3858"
-         style="font-size:18px">How many ways can a row, measuring fifty units, in length be tiled?</flowPara></flowRoot>    <g
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">How many ways can a row, measuring fifty units, in length be tiled?</flowPara></flowRoot>    <g
        id="g4092"
-       transform="translate(15.31012,-6.4100861)">
+       transform="translate(15.062913,30.965558)">
       <g
          transform="translate(2,25.000037)"
          id="g3965">

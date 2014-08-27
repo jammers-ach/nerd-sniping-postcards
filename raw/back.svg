@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="4.svg"
-   inkscape:export-filename="/home/jammers/Documents/nerd-sniping-postcards/4.png"
+   inkscape:export-filename="/home/jammers/Documents/nerd-sniping-postcards/back.png"
    inkscape:export-xdpi="299.97836"
    inkscape:export-ydpi="299.97836">
   <defs
@@ -50,9 +50,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="390.83362"
-     inkscape:cy="224.17816"
+     inkscape:zoom="1"
+     inkscape:cx="329.2027"
+     inkscape:cy="181.13792"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,18 +88,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-3759.449)">
-    <text
-       xml:space="preserve"
-       style="font-size:26.64262581px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="529.6662"
-       y="4186.9941"
-       id="text3813"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3815"
-         x="529.6662"
-         y="4186.9941"
-         style="font-style:italic">No Google!</tspan></text>
     <rect
        style="opacity:0.94849782;fill:none;stroke:#000000;stroke-width:2.0999999;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect4111"
@@ -107,154 +95,55 @@
        height="446.42822"
        x="0"
        y="3763.0205" />
-    <flowRoot
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 314.64285,3809.349 0,340"
+       id="path3951"
+       inkscape:connector-curvature="0" />
+    <text
        xml:space="preserve"
-       id="flowRoot3844"
-       style="font-size:13px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(28.284271,3773.5911)"><flowRegion
-         id="flowRegion3846"><rect
-           id="rect3848"
-           width="342.74237"
-           height="252.92534"
-           x="3.5714285"
-           y="13.571429" /></flowRegion><flowPara
-         style="font-size:14px;text-align:justify;text-anchor:start"
-         id="flowPara3043">A mountain climber wishes to climb up a frictionless conical mountain. He wants to do this by throwing a lasso (a rope with a loop) over the top and climbing up along the rope. Assume that the mountain climber is of negligible height, so that the rope lies along the mountain, as shown.</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3852"
-       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(299.14207,3595.2997)"><flowRegion
-         id="flowRegion3854"><rect
-           id="rect3856"
-           width="305.37378"
-           height="170.1508"
-           x="5.2234378e-07"
-           y="347.85715"
-           style="font-size:14px" /></flowRegion><flowPara
-         id="flowPara3858"
-         style="font-size:14px;text-align:justify;text-anchor:start">At the bottom of the mountain are two stores. One sells “cheap” lassos (made</flowPara><flowPara
-         style="font-size:14px;text-align:justify;text-anchor:start"
-         id="flowPara3845">of a segment of rope tied to loop of rope of fixed length). The other sells “deluxe”lassos (made of one piece of rope with a loop of variable length; the loop’s lengthmay change without any friction of the rope with itself).</flowPara><flowPara
-         style="font-size:14px;text-align:justify;text-anchor:start"
-         id="flowPara3847" /><flowPara
-         style="font-size:14px;text-align:justify;text-anchor:start"
-         id="flowPara3849" /></flowRoot>    <g
-       id="g3851"
-       transform="translate(390.32294,-128.69343)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3051"
-         d="m 60.415396,4027.9198 36.615841,-128.1554 36.615843,128.1554"
-         style="fill:none;stroke:#000000;stroke-width:1.83079207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         clip-path="url(#clipPath3827)"
-         sodipodi:type="arc"
-         style="opacity:0.93925231;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
-         id="path3833"
-         sodipodi:cx="80"
-         sodipodi:cy="214.89999"
-         sodipodi:rx="20"
-         sodipodi:ry="5"
-         d="m 100,214.89999 c 0,2.76143 -8.954305,5 -20,5 -11.045695,0 -20,-2.23857 -20,-5 0,-2.76142 8.954305,-5 20,-5 11.045695,0 20,2.23858 20,5 z"
-         transform="matrix(1.8307921,0,0,1.8307921,-49.432128,3634.8753)" />
-      <path
-         transform="matrix(0.82626007,0.28807319,-0.28807319,0.82626007,93.773907,3759.2731)"
-         d="m 100,214.89999 c 0,2.76143 -8.954305,5 -20,5 -11.045695,0 -20,-2.23857 -20,-5 0,-2.76142 8.954305,-5 20,-5 11.045695,0 20,2.23858 20,5 z"
-         sodipodi:ry="5"
-         sodipodi:rx="20"
-         sodipodi:cy="214.89999"
-         sodipodi:cx="80"
-         id="path3831"
-         style="opacity:0.93925231;fill:none;stroke:#000000;stroke-width:2.09224248;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.27672724, 6.27672724;stroke-dashoffset:0"
-         sodipodi:type="arc"
-         clip-path="url(#clipPath3827)" />
-      <path
-         transform="matrix(1.8307921,0,0,-1.8307921,-49.432128,4420.8994)"
-         d="m 100,214.89999 c 0,2.76143 -8.954305,5 -20,5 -11.045695,0 -20,-2.23857 -20,-5 0,-2.76142 8.954305,-5 20,-5 11.045695,0 20,2.23858 20,5 z"
-         sodipodi:ry="5"
-         sodipodi:rx="20"
-         sodipodi:cy="214.89999"
-         sodipodi:cx="80"
-         id="path3835"
-         style="opacity:0.93925231;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         sodipodi:type="arc"
-         clip-path="url(#clipPath3827)" />
-      <path
-         clip-path="url(#clipPath3827)"
-         sodipodi:type="arc"
-         style="opacity:0.93925231;fill:none;stroke:#000000;stroke-width:2.09224248;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path3823"
-         sodipodi:cx="80"
-         sodipodi:cy="214.89999"
-         sodipodi:rx="20"
-         sodipodi:ry="5"
-         d="m 100,214.89999 c 0,2.76143 -8.954305,5 -20,5 -11.045695,0 -20,-2.23857 -20,-5 0,-2.76142 8.954305,-5 20,-5 11.045695,0 20,2.23858 20,5 z"
-         transform="matrix(0.82626007,0.28807319,0.28807319,-0.82626007,-29.90613,4115.389)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3839"
-         d="m 107.90493,3962.9987 10.52706,1.3731 12.81554,40.2774"
-         style="fill:none;stroke:#000000;stroke-width:1.83079207px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3841"
-         y="3927.6592"
-         x="93.617355"
-         style="font-size:10.98475266px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="3927.6592"
-           x="93.617355"
-           id="tspan3843"
-           sodipodi:role="line">α</tspan></text>
-    </g>
-    <g
-       id="g3906"
-       transform="translate(0,-22)">
-      <path
-         sodipodi:nodetypes="ssssssscsssssssccsssscscsccccsssccsccscsssssscscsssssscscssccs"
-         inkscape:connector-curvature="0"
-         id="path3872"
-         d="m 89.525676,4091.9372 c 6.854,-3.1112 13.190674,-7.8374 22.253544,-16.5979 10.72601,-10.3681 18.00001,-15.4353 18.00001,-12.539 0,0.4904 -1.07963,1.1625 -2.39916,1.4937 -1.31954,0.3312 -7.55194,5.4425 -13.84978,11.3584 -11.32746,10.6406 -22.311484,18.2769 -26.228324,18.2343 -1.28736,-0.014 -0.47892,-0.7227 2.22371,-1.9495 z m 46.097004,-24.7122 c -2.63239,-3.0137 -3.84343,-6.0069 -3.84396,-9.5006 -2.8e-4,-1.8236 -0.90028,-5.683 -2,-8.5764 -2.19963,-5.7873 -2.65051,-15.3861 -0.93588,-19.9242 2.72623,-7.2156 10.87612,-12.3201 19.64655,-12.3053 14.13902,0.024 27.20659,12.6811 27.26787,26.4116 0.0201,4.5092 -0.33994,5.2682 -4.29814,9.0608 -5.93097,5.6829 -13.56918,8.271 -26.02117,8.8171 -5.60783,0.2459 -9.26429,0.066 -8.5,-0.4186 0.7377,-0.4675 4.71628,-0.8524 8.84128,-0.8553 14.58963,-0.01 27.5632,-7.0988 28.69105,-15.6768 1.09406,-8.321 -6.38603,-19.4043 -16.19105,-23.9904 -14.0608,-6.5767 -29.39798,2.3777 -29.47804,17.2103 -0.0317,5.8714 2.73568,14.3024 5.55105,16.9116 1.33484,1.2371 2.4133,2.8726 2.39658,3.6346 -0.0207,0.9454 -0.35785,0.8229 -1.06146,-0.3857 -0.56708,-0.9741 -1.48986,-1.4875 -2.05062,-1.1409 -1.24416,0.7689 -0.29044,5.0342 1.87255,8.3745 1.48168,2.2881 1.64174,2.3283 2.25978,0.5664 0.38246,-1.0904 0.93735,-1.4558 1.30562,-0.86 0.35226,0.57 0.0766,1.8075 -0.61254,2.7499 -1.17858,1.6118 -1.34724,1.6057 -2.83947,-0.1026 z m -51.808244,-28.6529 c 12.91212,-6.4643 22.672554,-15.0897 28.474594,-25.1634 4.82129,-8.3709 7.4544,-11.3147 13.85347,-15.4883 3.3752,-2.2014 6.75484,-4.5242 7.51031,-5.162 1.0667,-0.9004 1.58048,-0.7897 2.29969,0.4954 1.07904,1.9282 4.89174,2.1899 6.62673,0.4549 2.01193,-2.0119 1.43994,-5.504 -1.00633,-6.1437 -1.21349,-0.3173 -1.9224,-0.8609 -1.57536,-1.2079 1.14329,-1.1433 4.66712,0.6153 5.31346,2.6517 0.37026,1.1666 -0.0687,3.0704 -1.05493,4.5756 -1.53858,2.3481 -2.12164,2.5265 -6.54607,2.0025 -4.44895,-0.5269 -5.35477,-0.2429 -10.78064,3.3804 -6.20201,4.1415 -8.865,7.1544 -13.63542,15.4268 -5.49518,9.5292 -17.994044,20.6556 -28.618464,25.476 -7.2253,3.2782 -7.9175,2.2347 -0.86104,-1.298 z m 72.220954,-31.6382 c -1.78411,-0.4235 -4.03411,-1.3675 -5,-2.0976 -3.70256,-2.7989 -7.25616,-6.3402 -7.25616,-7.2311 0,-0.5111 1.82352,0.7182 4.05227,2.7318 4.83278,4.3661 7.68827,5.5717 13.19665,5.5717 3.61124,0 4.6897,-0.5924 8.75246,-4.8074 9.11613,-9.4578 11.57863,-19.2315 7.15022,-28.3794 -3.04387,-6.2878 -13.71215,-17.7084 -18.62779,-19.9414 -8.21548,-3.732 -19.46423,-1.1926 -23.56603,5.3201 -3.03244,4.8147 -2.26238,14.6736 2.00159,25.6259 1.78107,4.5748 3.89719,8.5429 2.73831,8.8179 -1.49858,2.3824 -6.70176,-15.2904 -7.79718,-21.2161 -2.41886,-13.0848 4.68057,-21.3456 18.38933,-21.3976 7.69274,-0.029 11.97791,2.2809 19.54067,10.5343 11.20789,12.2315 13.65355,21.0662 8.62503,31.1571 -3.71076,7.4465 -9.86736,14.029 -14.26316,15.2499 -2.03081,0.5641 -3.91737,0.982 -4.19237,0.9288 -0.275,-0.053 -1.95973,-0.4434 -3.74384,-0.8669 z"
-         style="fill:#000000" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3878"
-         y="3986.1802"
-         x="187.15977"
-         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="3986.1802"
-           x="187.15977"
-           id="tspan3880"
-           sodipodi:role="line">cheap</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3882"
-         y="4042.8628"
-         x="190.9808"
-         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           y="4042.8628"
-           x="190.9808"
-           id="tspan3884"
-           sodipodi:role="line">deflux</tspan></text>
-    </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot3888"
-       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(1,3733.449)"><flowRegion
-         id="flowRegion3890"><rect
-           id="rect3892"
-           width="484"
-           height="96.142136"
-           x="15"
-           y="371"
-           style="font-size:18px" /></flowRegion><flowPara
-         id="flowPara3896"
-         style="font-size:14px">When viewed from the side, this conical mountain has an angle α at its peak. For what angles α can the climber climb up along the mountain if they use:</flowPara><flowPara
-         style="font-size:14px"
-         id="flowPara3904" /><flowPara
-         style="font-size:14px"
-         id="flowPara3902">a) a 'cheap' lasso                  b) a 'delux' lasso</flowPara></flowRoot>  </g>
+       style="font-size:11.54693317px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20"
+       y="4179.3491"
+       id="text3953"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3955"
+         x="20"
+         y="4179.3491"
+         style="-inkscape-font-specification:CMU Classical Serif Bold Italic;font-family:CMU Classical Serif;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal">http://jammers-ach.github.io/nerd-sniping-postcards/</tspan></text>
+    <rect
+       style="opacity:0.93925230999999998;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0"
+       id="rect3957"
+       width="70"
+       height="80"
+       x="530"
+       y="29.9"
+       transform="translate(0,3759.449)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3961"
+       d="m 352,3899.349 160,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3963"
+       d="m 352,3956.349 160,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3965"
+       d="m 352,4013.349 160,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3967"
+       d="m 352,4070.349 160,0"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352,4127.349 160,0"
+       id="path3959"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
